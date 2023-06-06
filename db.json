@@ -1,0 +1,16 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "erter",
+      "email": "typicode",
+      "phone": "123gfh"
+    },
+    {
+      "id": 2,
+      "name": "hdf",
+      "email": "bcbcv",
+      "phone": "cbvttt"
+    }
+  ]
+}
